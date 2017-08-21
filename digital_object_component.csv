@@ -1,0 +1,34 @@
+id,lock_version,json_schema_version,repo_id,root_record_id,parent_id,position,"parent_name",publish,"component_id","title","display_string","label",language_id,system_generated,"created_by","last_modified_by","create_time","system_mtime","user_mtime",suppressed
+3,1,1,2,5,NULL,0,"root@/repositories/2/digital_objects/5",1,"id",NULL,"label","label",NULL,0,"admin","admin","2016-02-02 16:47:36","2016-11-29 05:05:27","2016-02-02 16:48:32",0
+4,0,1,3,4,NULL,0,"root@/repositories/3/digital_objects/4",0,NULL,"CE button, that is","CE button, that is","i got one too?",NULL,0,"admin","admin","2016-03-04 22:03:19","2016-11-29 05:05:27","2016-03-04 22:03:19",0
+5,1,1,2,6,NULL,5000,"root@/repositories/2/digital_objects/6",0,NULL,"This","This",NULL,NULL,0,"admin","admin","2016-03-18 11:56:36","2017-04-10 15:16:32","2016-03-18 11:56:36",0
+6,1,1,2,6,NULL,6000,"root@/repositories/2/digital_objects/6",0,NULL,"That","That",NULL,NULL,0,"admin","admin","2016-03-18 11:56:36","2017-04-10 15:16:32","2016-03-18 11:56:36",0
+7,1,1,2,6,NULL,7000,"root@/repositories/2/digital_objects/6",0,NULL,"Which","Which",NULL,NULL,0,"admin","admin","2016-03-18 11:56:36","2017-04-10 15:16:32","2016-03-18 11:56:36",0
+8,1,1,2,6,NULL,8000,"root@/repositories/2/digital_objects/6",0,NULL,"Where","Where",NULL,NULL,0,"admin","admin","2016-03-18 11:56:36","2017-04-10 15:16:32","2016-03-18 11:56:36",0
+9,1,1,2,6,NULL,9000,"root@/repositories/2/digital_objects/6",0,NULL,"There","There",NULL,NULL,0,"admin","admin","2016-03-18 11:56:36","2017-04-10 15:16:32","2016-03-18 11:56:36",0
+10,0,1,2,167,NULL,0,"root@/repositories/2/digital_objects/167",1,NULL,NULL,"Component one","Component one",NULL,0,"admin","admin","2016-07-12 20:39:57","2017-03-23 15:11:48","2016-07-12 20:39:57",0
+11,0,1,2,167,NULL,1000,"root@/repositories/2/digital_objects/167",1,NULL,NULL,"Component two","Component two",NULL,0,"admin","admin","2016-07-12 20:40:06","2017-03-23 15:11:48","2016-07-12 20:40:06",0
+12,0,1,2,210,NULL,0,"root@/repositories/2/digital_objects/210",0,NULL,NULL,"Archivematica Series","Archivematica Series",NULL,0,"admin","admin","2016-07-20 20:05:56","2016-11-29 05:05:27","2016-07-20 20:05:56",0
+13,0,1,2,210,NULL,1000,"root@/repositories/2/digital_objects/210",0,NULL,NULL,"Logs and Metadata","Logs and Metadata",NULL,0,"admin","admin","2016-07-20 20:06:06","2016-11-29 05:05:27","2016-07-20 20:06:06",0
+14,0,1,2,213,NULL,0,"root@/repositories/2/digital_objects/213",0,NULL,NULL,"Image 1, 1945","Image 1",NULL,0,"admin","admin","2016-08-01 23:53:19","2016-11-29 05:05:27","2016-08-01 23:53:19",0
+15,0,1,2,213,NULL,1000,"root@/repositories/2/digital_objects/213",0,NULL,NULL,"Image 2, 1946","Image 2",NULL,0,"admin","admin","2016-08-01 23:53:19","2016-11-29 05:05:27","2016-08-01 23:53:19",0
+16,1,1,2,25,NULL,0,"root@/repositories/2/digital_objects/25",0,NULL,"Child","Child",NULL,NULL,0,"admin","admin","2016-08-11 21:02:02","2016-11-29 05:05:27","2016-08-11 21:02:02",0
+20,0,1,14,253,NULL,0,"root@/repositories/14/digital_objects/253",1,"11111","transfer 11111 comp","transfer 11111 comp","transfer 11111 comp",NULL,0,"admin","admin","2016-11-11 22:08:07","2016-11-29 05:05:27","2016-11-11 22:08:07",0
+21,0,1,14,253,20,0,"20@digital_object_component",1,"transfer 11111 child","transfer 11111 child","transfer 11111 child","transfer 11111 child",NULL,0,"admin","admin","2016-11-11 22:08:23","2016-11-29 05:05:27","2016-11-11 22:08:23",0
+22,1,1,14,199,NULL,0,"root@/repositories/14/digital_objects/199",0,NULL,"Test child record","Test child record",NULL,NULL,0,"admin","admin","2016-11-18 17:52:30","2017-01-20 21:04:18","2016-11-18 17:52:30",0
+23,0,1,2,43,NULL,1000,"root@/repositories/2/digital_objects/43",0,NULL,"Page 1","Page 1",NULL,NULL,0,"admin","admin","2016-12-01 16:43:02","2017-03-21 19:30:43","2016-12-01 16:43:02",0
+24,1,1,2,43,NULL,500,"root@/repositories/2/digital_objects/43",0,NULL,"Page 2","Page 2",NULL,NULL,0,"admin","admin","2016-12-01 16:43:08","2017-03-21 19:31:00","2016-12-01 16:43:08",0
+25,0,1,2,68,NULL,0,"root@/repositories/2/digital_objects/68",0,NULL,"gfyrcyrdyrd","gfyrcyrdyrd","ugftytuf",NULL,0,"admin","admin","2017-01-10 23:13:35","2017-01-17 00:26:05","2017-01-10 23:13:35",0
+26,0,1,2,80,NULL,0,"root@/repositories/2/digital_objects/80",0,NULL,NULL,"asfsafsdafsafd","asfsafsdafsafd",NULL,0,"admin","admin","2017-01-23 20:04:52","2017-01-23 20:04:52","2017-01-23 20:04:52",0
+27,0,1,2,268,NULL,0,"root@/repositories/2/digital_objects/268",0,NULL,NULL,"My Component","My Component",NULL,0,"admin","admin","2017-01-23 21:55:58","2017-01-23 21:55:58","2017-01-23 21:55:58",0
+28,0,1,2,274,NULL,0,"root@/repositories/2/digital_objects/274",0,NULL," "," ",NULL,NULL,0,"admin","admin","2017-03-01 23:14:06","2017-03-01 23:14:06","2017-03-01 23:14:06",0
+29,0,1,2,17,NULL,1000,"root@/repositories/2/digital_objects/17",0,NULL,"Child component","Child component",NULL,NULL,0,"admin","admin","2017-03-22 16:05:20","2017-03-22 16:05:20","2017-03-22 16:05:20",0
+30,0,1,2,17,NULL,2000,"root@/repositories/2/digital_objects/17",0,NULL,"Another Child","Another Child",NULL,NULL,0,"admin","admin","2017-03-22 16:05:33","2017-03-22 16:05:33","2017-03-22 16:05:33",0
+31,0,1,2,17,NULL,1500,"root@/repositories/2/digital_objects/17",0,NULL,"Surprise child","Surprise child",NULL,NULL,0,"admin","admin","2017-03-22 16:05:45","2017-03-22 16:08:57","2017-03-22 16:05:45",0
+32,0,1,2,17,31,1000,"31@digital_object_component",0,NULL,"more children","more children, 2005",NULL,NULL,0,"admin","admin","2017-03-22 16:07:31","2017-03-22 16:09:16","2017-03-22 16:07:31",0
+33,0,1,2,17,30,3000,"30@digital_object_component",0,NULL,"more children","more children, 2006",NULL,NULL,0,"admin","admin","2017-03-22 16:07:31","2017-03-22 16:07:31","2017-03-22 16:07:31",0
+34,0,1,2,17,31,500,"31@digital_object_component",0,NULL,"more children","more children, 2007",NULL,NULL,0,"admin","admin","2017-03-22 16:07:31","2017-03-22 16:09:16","2017-03-22 16:07:31",0
+35,1,1,2,279,NULL,1000,"root@/repositories/2/digital_objects/279",0,NULL,NULL,"2017-03-07",NULL,NULL,0,"admin","admin","2017-03-23 13:40:55","2017-03-23 13:42:09","2017-03-23 13:42:09",0
+36,0,1,2,578,NULL,1000,"root@/repositories/2/digital_objects/578",1,NULL,"A component","A component",NULL,NULL,0,"admin","admin","2017-04-05 18:48:05","2017-04-05 18:48:05","2017-04-05 18:48:05",0
+37,0,1,2,578,NULL,2000,"root@/repositories/2/digital_objects/578",1,NULL,"A sibling component","A sibling component",NULL,NULL,0,"admin","admin","2017-04-05 18:48:19","2017-04-05 18:48:19","2017-04-05 18:48:19",0
+38,0,1,2,578,36,1000,"36@digital_object_component",1,NULL,"A child component","A child component",NULL,NULL,0,"admin","admin","2017-04-05 18:48:35","2017-04-05 18:48:35","2017-04-05 18:48:35",0

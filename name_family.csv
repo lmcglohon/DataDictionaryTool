@@ -1,0 +1,28 @@
+id,lock_version,json_schema_version,agent_family_id,"family_name","prefix","dates","qualifier",source_id,rules_id,"sort_name",sort_name_auto_generate,"created_by","last_modified_by","create_time","system_mtime","user_mtime",authorized,is_display_name
+1,0,1,1,"session expiration test",NULL,NULL,NULL,236,NULL,"session expiration test",1,"admin","admin","2016-02-03 18:13:10","2016-02-03 18:13:10","2016-02-03 18:13:10",1,1
+2,0,1,2,"session expiration test esf",NULL,NULL,NULL,236,NULL,"session expiration test esf",1,"admin","admin","2016-02-03 19:09:16","2016-02-03 19:09:16","2016-02-03 19:09:16",1,1
+4,0,1,4,"FNames-FamilyName-AT, FNames-Prefix-AT, FNames-Qualifier-AT",NULL,NULL,NULL,237,241,"FNames-FamilyName-AT, FNames-Prefix-AT, FNames-Qualifier-AT",1,"admin","admin","2016-02-11 16:07:46","2016-02-11 16:07:46","2016-02-11 16:07:46",1,1
+5,0,1,5,"FNames-FamilyName-AT, FNames-Prefix-AT, FNames-Qualifier-AT -- Archives",NULL,NULL,NULL,237,241,"FNames-FamilyName-AT, FNames-Prefix-AT, FNames-Qualifier-AT -- Archives",1,"admin","admin","2016-02-11 16:07:47","2016-02-11 16:07:47","2016-02-11 16:07:47",1,1
+6,0,1,6,"FNames-FamilyName-AT, FNames-Prefix-AT, FNames-Qualifier-AT -- Pictorial works",NULL,NULL,NULL,237,241,"FNames-FamilyName-AT, FNames-Prefix-AT, FNames-Qualifier-AT -- Pictorial works",1,"admin","admin","2016-02-11 16:07:47","2016-02-11 16:07:47","2016-02-11 16:07:47",1,1
+7,0,1,7,"FNames-FamilyName-AT, FNames-Prefix-AT, FNames-Qualifier-AT -- History-Sources",NULL,NULL,NULL,237,241,"FNames-FamilyName-AT, FNames-Prefix-AT, FNames-Qualifier-AT -- History-Sources",1,"admin","admin","2016-02-11 16:07:48","2016-02-11 16:07:48","2016-02-11 16:07:48",1,1
+8,0,1,8,"Hall family, (F. Lyman Hall)",NULL,NULL,NULL,236,242,"Hall family, (F. Lyman Hall)",1,"buschedw","buschedw","2016-04-11 14:52:28","2016-04-11 14:52:28","2016-04-11 14:52:28",1,1
+9,0,1,9,"Wilcox family, (Mary E. Ferdon Wilcox)",NULL,NULL,NULL,236,242,"Wilcox family, (Mary E. Ferdon Wilcox)",1,"buschedw","buschedw","2016-04-11 14:52:29","2016-04-11 14:52:29","2016-04-11 14:52:29",1,1
+10,0,1,10,"Updikes",NULL,NULL,"Beverly, MA",236,NULL,"Updikes (Beverly, MA)",1,"test-user","test-user","2016-05-12 20:18:48","2016-05-12 20:18:48","2016-05-12 20:18:48",1,1
+11,0,1,11,"Middleton family",NULL,NULL,NULL,1802,NULL,"Middleton family",1,"admin","admin","2016-07-08 15:45:37","2016-07-08 15:45:37","2016-07-08 15:45:37",1,1
+12,0,1,12,"Thorne family",NULL,NULL,NULL,1802,NULL,"Thorne family",1,"admin","admin","2016-07-08 15:45:37","2016-07-08 15:45:37","2016-07-08 15:45:37",1,1
+13,0,1,13,"Steward family",NULL,NULL,NULL,1802,NULL,"Steward family",1,"admin","admin","2016-07-08 15:45:37","2016-07-08 15:45:37","2016-07-08 15:45:37",1,1
+14,0,1,14,"Allen Family",NULL,NULL,NULL,1802,NULL,"Allen Family",1,"admin","admin","2016-07-08 16:53:36","2016-07-08 16:53:36","2016-07-08 16:53:36",1,1
+15,0,1,15,"Allen family",NULL,NULL,NULL,1802,NULL,"Allen family",1,"admin","admin","2016-07-08 16:53:36","2016-07-08 16:53:36","2016-07-08 16:53:36",1,1
+16,0,1,16,"Breidenhart family",NULL,NULL,NULL,1802,NULL,"Breidenhart family",1,"admin","admin","2016-07-08 16:53:36","2016-07-08 16:53:36","2016-07-08 16:53:36",1,1
+17,0,1,17,"Casdorp family",NULL,NULL,NULL,1802,NULL,"Casdorp family",1,"admin","admin","2016-07-08 16:53:36","2016-07-08 16:53:36","2016-07-08 16:53:36",1,1
+18,0,1,18,"Gibbons family",NULL,NULL,NULL,1802,NULL,"Gibbons family",1,"admin","admin","2016-07-08 16:53:36","2016-07-08 16:53:36","2016-07-08 16:53:36",1,1
+19,0,1,19,"Hubley family",NULL,NULL,NULL,1802,NULL,"Hubley family",1,"admin","admin","2016-07-08 16:53:36","2016-07-08 16:53:36","2016-07-08 16:53:36",1,1
+20,0,1,20,"Jacobs family",NULL,NULL,NULL,1802,NULL,"Jacobs family",1,"admin","admin","2016-07-08 16:53:36","2016-07-08 16:53:36","2016-07-08 16:53:36",1,1
+21,0,1,21,"Matlack family",NULL,NULL,NULL,1802,NULL,"Matlack family",1,"admin","admin","2016-07-08 16:53:36","2016-07-08 16:53:36","2016-07-08 16:53:36",1,1
+22,0,1,22,"Samuel family",NULL,NULL,NULL,1802,NULL,"Samuel family",1,"admin","admin","2016-07-08 16:53:36","2016-07-08 16:53:36","2016-07-08 16:53:36",1,1
+23,0,1,23,"famname",NULL,NULL,NULL,4779,NULL,"famname",1,"admin","admin","2016-07-19 20:17:48","2016-07-19 20:17:48","2016-07-19 20:17:48",1,1
+24,0,1,24,"Pickman family.",NULL,NULL,NULL,1802,NULL,"Pickman family.",1,"admin","admin","2016-08-10 16:12:12","2016-08-10 16:12:12","2016-08-10 16:12:12",1,1
+28,0,1,28,"Kincaid family",NULL,NULL,NULL,2437,NULL,"Kincaid family",1,"cdibella","cdibella","2017-01-26 13:39:00","2017-01-26 13:39:00","2017-01-26 13:39:00",1,1
+30,0,1,30,"Rush family",NULL,NULL,NULL,236,NULL,"Rush family",1,"admin","admin","2017-03-23 15:24:48","2017-03-23 15:24:48","2017-03-23 15:24:48",1,1
+33,0,1,31,"McTesty family",NULL,"Jurassic period",NULL,236,NULL,"McTesty family, Jurassic period",1,"admin","admin","2017-03-24 14:41:21","2017-03-24 14:41:21","2017-03-24 14:41:21",1,1
+34,0,1,3,"Wayward family",NULL,NULL,NULL,1802,242,"Wayward family",1,"admin","admin","2017-04-12 23:06:19","2017-04-12 23:06:19","2017-04-12 23:06:19",1,1

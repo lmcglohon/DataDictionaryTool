@@ -1,0 +1,7 @@
+id,lock_version,json_schema_version,accession_id,resource_id,scope_id,"description","reason","disposition",notification,"created_by","last_modified_by","create_time","system_mtime","user_mtime"
+16,0,1,50,NULL,922,"Oscar statue","Donor did not intend to give","Returned to donor",1,"admin","admin","2016-11-26 20:15:59","2017-07-13 22:14:18","2016-11-26 20:15:59"
+17,0,1,2,NULL,921,"stuff","because","trashed",1,"admin","admin","2017-04-06 16:25:40","2017-07-13 22:14:18","2017-04-06 16:25:40"
+18,0,1,1,NULL,921,"serials","don't collection","to public library",1,"admin","admin","2017-04-07 13:08:56","2017-07-13 22:14:18","2017-04-07 13:08:56"
+19,0,1,15,NULL,921,"test","dumb stuff",NULL,0,"admin","admin","2017-04-10 15:08:00","2017-07-13 22:14:18","2017-04-10 15:08:00"
+20,0,1,15,NULL,921,"testing",NULL,NULL,0,"admin","admin","2017-04-10 15:08:00","2017-07-13 22:14:18","2017-04-10 15:08:00"
+21,0,1,NULL,164,921,"testing dogs!",NULL,NULL,0,"admin","admin","2017-04-10 15:10:05","2017-07-13 22:14:18","2017-04-10 15:10:05"

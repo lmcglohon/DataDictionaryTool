@@ -1,0 +1,29 @@
+id,lock_version,"name","url","extent_dimension",dimension_units_id,"height","width","depth","created_by","last_modified_by","create_time","system_mtime","user_mtime","stacking_limit"
+1,19,"Legal Document Case",NULL,"width",1350,"10.25","15.25","5","admin","admin","2016-01-11 14:40:14","2017-07-13 22:14:18","2016-06-27 15:48:17",NULL
+5,7,"flat storage box",NULL,"width",1349,"2","12","8","admin","admin","2016-02-17 14:36:30","2017-07-13 22:14:18","2016-02-17 17:41:40",NULL
+6,3,"testing for dimensions box",NULL,"height",1349,"0.13",".5","0.25","admin","admin","2016-03-21 16:12:40","2017-07-13 22:14:18","2016-03-29 13:08:28",NULL
+8,1,"Box without Dimensions",NULL,"height",1349,NULL,NULL,NULL,"admin","admin","2016-03-25 19:49:58","2017-07-13 22:14:18","2016-03-25 19:49:58",NULL
+9,8,"Container 1.5",NULL,"height",1349,".5","0.55","1.5","admin","admin","2016-03-25 19:59:00","2017-07-13 22:14:18","2016-07-01 17:50:36",NULL
+10,1,"Decimals",NULL,"height",1349,NULL,NULL,NULL,"admin","admin","2016-03-25 21:23:17","2017-07-13 22:14:18","2016-03-25 21:27:26",NULL
+11,2,"My New Container",NULL,"width",1350,".7",".5","1.2","admin","admin","2016-03-31 16:16:52","2017-07-13 22:14:18","2016-03-31 16:16:52",NULL
+12,3,"My Other New Container",NULL,"width",1350,"1","1","1","admin","admin","2016-03-31 16:23:30","2017-07-13 22:14:18","2016-03-31 16:24:46",NULL
+13,0,"My newest container",NULL,"width",1349,"3","1","2","admin","admin","2016-04-04 14:11:06","2017-07-13 22:14:18","2016-04-04 14:11:06",NULL
+15,9,"Master Slide Storage Box","https://jet.com/product/detail/b7735c7527404b79a4cc82f496ebbe01?gclid=CjwKEAjwi9K4BRCQzq7d1c6A_XASJABueAO2pBGbbFtB9u7ujv2GF83sHPpdxuR4lxY-VSgz1YGQzBoCzojw_wcB&gclsrc=aw.ds","width",1349,"2.88","16.63","18.5","admin","admin","2016-04-18 14:58:33","2017-07-13 22:14:18","2016-04-18 21:13:16",NULL
+17,2,"Gaylord Barrier Board Deep Lid Archival Newspaper Box","http://www.gaylord.com/Preservation/Document-Preservation/Storage-Boxes/Gaylord%26%23174%3B-DocuDry%26%23153%3B-Barrier-Board-Deep-Lid-Archival-Newspaper-Box/p/HYB02311","width",1350,"3","13","18","admin","admin","2016-04-22 22:00:24","2017-07-13 22:14:18","2016-04-22 22:00:24",NULL
+21,6,"5W Legal-Sized Box","http://www.gaylord.com/Preservation/Archival-Storage-Boxes/Document/Gaylord%26%23174%3B-Blue-Grey-Barrier-Board-Deep-Lid-Letter-Size-Archival-Document-Case/p/HYB09058","width",1349,"10.25","5","15.25","admin","admin","2016-04-24 18:57:34","2017-07-13 22:14:18","2016-04-24 18:57:34",NULL
+22,24,"5W Letter-Sized Box","http://www.gaylord.com/Preservation/Archival-Storage-Boxes/Document/Gaylord%26%23174%3B-Blue-Grey-Barrier-Board-Deep-Lid-Legal-Size-Archival-Document-Case/p/HYB09059","width",1349,"10.25","5","12.25","admin","admin","2016-04-24 19:01:50","2017-07-13 22:14:18","2016-07-01 14:56:21",NULL
+23,0,"small box",NULL,"depth",1349,".5",".25",".25","admin","admin","2016-06-28 19:45:25","2017-07-13 22:14:18","2016-06-28 19:45:25","3"
+24,34,"Paige 15",NULL,"height",1349,"10.5","13","16.25","admin","admin","2016-06-29 17:22:56","2017-07-13 22:14:18","2016-06-29 17:22:56","2"
+25,10,"Hollinger Oversize Flat Box",NULL,"height",1349,"3","18.5","15","admin","admin","2016-06-29 17:24:05","2017-07-13 22:14:18","2016-06-29 17:24:05","3"
+26,15,"Hollinger Manuscript Box",NULL,"width",1349,"10.25","5","12.5","admin","admin","2016-06-29 17:25:19","2017-07-13 22:14:18","2016-06-29 17:25:19","2"
+27,8,"Record Center Carton","http://www.paigecompany.com/product-catalog/3-miracle-box.html","depth",1349,"10","12","15","admin","admin","2016-06-29 17:50:18","2017-07-13 22:14:18","2016-06-29 17:50:18",NULL
+28,1,"yards for kicks",NULL,"height",1351,"1","1","1","admin","admin","2016-07-01 18:02:42","2017-07-13 22:14:18","2016-07-01 18:02:42",NULL
+30,19,"5W legal size Box",NULL,"width",1349,"10.25","5","15.25","admin","admin","2016-07-17 18:46:35","2017-07-13 22:14:18","2016-07-17 18:46:35",NULL
+31,6,"hello kitty box",NULL,"height",1349,"2.25","11","2","admin","admin","2016-08-10 18:31:23","2017-07-13 22:14:18","2016-08-10 18:31:23",NULL
+32,1,"R folder",NULL,"width",1353,"1","80","59","admin","admin","2016-08-11 20:51:06","2017-07-13 22:14:18","2016-08-11 20:51:06",NULL
+33,0,"R-size folder (#45)",NULL,"height",1349,"1","3",".01","admin","admin","2016-08-18 16:01:10","2017-07-13 22:14:18","2016-08-18 16:01:10",NULL
+34,0,"Boxes, card file storage",NULL,"height",1349,"5.5","5.13","12","admin","admin","2016-08-19 16:25:31","2017-07-13 22:14:18","2016-08-19 16:25:31",NULL
+35,1,"document box",NULL,"height",1349,"10","5","15","admin","admin","2017-02-01 17:15:00","2017-07-13 22:14:18","2017-02-01 17:15:00","0"
+36,3,"Pokeball",NULL,"height",1353,"5","5","5","admin","admin","2017-03-21 20:10:03","2017-07-13 22:14:18","2017-03-21 20:10:03",NULL
+37,1,"CB97519610",NULL,"width",1349,"10","10","10","admin","admin","2017-06-21 15:39:53","2017-07-13 22:14:18","2017-06-21 15:39:53","2"
+38,1,"789125224BP",NULL,"width",1349,"10","10","10","admin","admin","2017-06-21 22:10:46","2017-07-13 22:14:18","2017-06-21 22:10:46","2"
